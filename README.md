@@ -82,5 +82,3 @@ Model yang telah ditrainin dan dievaluasi kemudian disimpan dalam 3 format, yait
 * Saved Model
 * TFLite
 * TFJS
-
-## Install Modul
