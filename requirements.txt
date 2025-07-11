@@ -1,0 +1,6 @@
+numpy
+opencv-python
+matplotlib
+split-folders
+scikit-learn
+tensorflow
